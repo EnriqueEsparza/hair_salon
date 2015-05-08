@@ -6,4 +6,7 @@ describe(Stylist) do
       expect(Stylist.all()).to(eq([]))
     end
   end
+
+
+
 end
